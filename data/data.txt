@@ -1,0 +1,9 @@
+Buy – Standard Software
+Many companies choose standard software – ready-made solutions developed for a broad target group and offered “off the shelf”.
+Examples: Microsoft 365, SAP, Salesforce, Asana, Trello.
+Why is it attractive?
+• Fast availability – pre-built and quick to deploy
+• Proven quality – already in use by many companies (often in the same industry)
+• Best practices built in – includes industry-specific know-how, legal compliance, or process
+standards
+• Customizable – adaptable through configuration (customizing) of forms, workflows, and user roles

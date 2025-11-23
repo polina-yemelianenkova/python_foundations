@@ -1,0 +1,14 @@
+[
+    {
+        "name": "polina",
+        "year": "1996"
+    },
+    {
+        "name": "john",
+        "year": "1954"
+    },
+    {
+        "name": "faina",
+        "year": 1234
+    }
+]
