@@ -1,10 +1,18 @@
-list = []
-for i in range(0,20):
-    number = int(input("Please enter the number: "))
-    list.append(number)
+import random
 
-print(list)
-print(min(list))
-print(max(list))
-print(sum(list))
-print(sum(list)/len(list))
+
+def generate_lottery_number():
+    list = []
+    for number in range (7):
+        number = random.randint(0,9)
+        list.append(number)
+    return list
+
+def show_list():
+    list = generate_lottery_number()
+    for i in range(len(list)):
+        print(list[i], end="")
+
+show_list()
+
+
